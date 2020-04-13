@@ -1,5 +1,5 @@
 ## Slot Machine game demo
-<img src="Docs/capture1.JPG?raw=true" alt="Example" width="512px" height="284px"/>
+<img src="Docs/Capture1.JPG?raw=true" alt="Example" width="512px" height="284px"/>
 
 ### CREATE BY
 - Sanghun Lee
